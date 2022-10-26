@@ -11,7 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osnirogerio&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## Tecnologias que uso no meu dia
+## Tecnologias que uso no dia a dia
 
 <div style="display: inline_block"><br />
 
